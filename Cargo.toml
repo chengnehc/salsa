@@ -11,7 +11,7 @@ description = "A generic framework for on-demand, incrementalized computation (e
 arc-swap = "1.4.0"
 crossbeam-utils = { version = "0.8", default-features = false }
 dashmap = "4.0.2"
-hashlink = "0.7.0"
+hashlink = "0.10.0"
 indexmap = "1.0.1"
 lock_api = "0.4.7"
 log = "0.4.5"
